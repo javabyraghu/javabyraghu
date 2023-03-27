@@ -3,8 +3,6 @@
 
 Iam **RAGHU**. Java Developer and Trainer.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Java, DevOps, AWS, ReactJS, Microservices
 - 👯 I’m looking to collaborate on Developement and Training 
 - 💬 Ask me about Dstirbuted Application Development (Fullstack) using java
