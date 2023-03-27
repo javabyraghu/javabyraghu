@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Everyone 👋
 
 
 Iam **RAGHU**. Java Developer and Trainer.
@@ -6,11 +6,6 @@ Iam **RAGHU**. Java Developer and Trainer.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Java, DevOps, AWS, ReactJS, Microservices
-- 🌱 I’m currently learning DataStructures and Algorithms
 - 👯 I’m looking to collaborate on Developement and Training 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- 💬 Ask me about Dstirbuted Application Development (Fullstack) using java
+- 📫 How to reach me: https://facebook.com/groups/javabyraghu (or) javabyraghu@gmail.com
