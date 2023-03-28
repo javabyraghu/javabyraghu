@@ -1,7 +1,7 @@
 ### Hi Everyone 👋
 
 
-Iam **RAGHU**. Java Developer and Trainer.
+I am **RAGHU**. Java Developer and Trainer.
 
 - 🔭 I’m currently working on Java, DevOps, AWS, ReactJS, Microservices
 - 👯 I’m looking to collaborate on Developement and Training 
